@@ -15,4 +15,4 @@ In this folder:
 6. Excel - License Management Dashboard
 7. Link to YouTube Demo: https://www.youtube.com/watch?v=VCnnEJ4hAh8
 
-*unfortunately, my M365 account is an institute account and has no Power BI access hence I am unable to create the dashboard via Power BI
+*M365 account is an institute account and does not have access to Power BI hence unable to create the dashboard via Power BI
