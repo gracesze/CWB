@@ -14,7 +14,9 @@ In this folder:
 5. Power Automate - sendLicenseEdit
 6. Excel - License Management Dashboard
 7. Link to YouTube Demo: https://www.youtube.com/watch?v=VCnnEJ4hAh8
+8. Link to SharePoint Lists
 
 *M365 account is an institute account and does not have access to Power BI hence unable to create the dashboard via Power BI
+
 
 Please feel free to reach out if there are any difficulties accessing the Power Apps or Power Automate applications
